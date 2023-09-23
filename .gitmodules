@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/jinyu-xie/jinyu-xie.github.io.git
+	branch = master

@@ -58,13 +58,10 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
 Jinyu Xie is a undergraduate of University of Electronic Science and Technology of China([UESTC](https://www.uestc.edu.cn/)),
-[Yingcai Honors College](https://www.yingcai.uestc.edu.cn/). He research interests include low-rank tensor modeling and unsupervised learning for data recovery, e.g., image inpainting and denoising.
+[Yingcai Honors College](https://www.yingcai.uestc.edu.cn/). His research interests include low-rank tensor modeling and unsupervised learning for data recovery, e.g., image inpainting and denoising.
 {style="text-align: justify;"} 

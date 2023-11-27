@@ -65,6 +65,6 @@ email: 'xiejinyu475@outlook.com'
 highlight_name: true
 ---
 
-Jinyu Xie is a undergraduate of University of Electronic Science and Technology of China([UESTC](https://www.uestc.edu.cn/)),
-[Yingcai Honors College](https://www.yingcai.uestc.edu.cn/). His research interests include low-rank tensor modeling and unsupervised learning for data recovery, e.g., image inpainting and denoising.
+I am an undergraduate of University of Electronic Science and Technology of China([UESTC](https://www.uestc.edu.cn/)),
+[Yingcai Honors College](https://www.yingcai.uestc.edu.cn/). My research interests include low-rank tensor modeling and unsupervised learning for data recovery, e.g., image inpainting and denoising.
 {style="text-align: justify;"} 
